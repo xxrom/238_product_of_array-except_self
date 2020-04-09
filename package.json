@@ -1,0 +1,12 @@
+{
+  "name": "238_product_of_array-except_self",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+,
+  "nodemonConfig": { "delay": "1" },
+  "scripts": 
+  {
+    "dev": "nodemon --exec python3 main.py ./main.py" 
+  }
+}
